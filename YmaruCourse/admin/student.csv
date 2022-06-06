@@ -1,0 +1,6 @@
+student_id,course_id,teacher_id,catalogue,username,enrollDate
+1,1,1,Engineering,mess,2022-06-06
+2,1,1,Engineering,Mahi12,2022-06-06
+3,1,1,Engineering,mahi,2022-06-06
+4,2,2,IT,mule,2022-06-06
+5,2,2,IT,nahi,2022-06-06

@@ -1,0 +1,3 @@
+teacher_id,course_id,username,experience,payment,document
+1,1,tesfu,2,1234567891023,avatar_horse.png
+2,2,mele,3,1000456789123,"default profile.jpg"
